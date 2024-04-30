@@ -1,1 +1,1 @@
-# -Code-In-C-
+"Welcome to my GitHub repository where I share my C++ journey! Explore a collection of my C++ projects, from beginner-friendly exercises to more advanced programs. Whether you're a fellow enthusiast or just starting out, there's something here for everyone to learn and enjoy. Join me as I code, learn, and grow in the world of C++ programming."
